@@ -1,0 +1,9 @@
+[submodule "sqlsmith"]
+	path = sqlsmith
+	url = git@github.com:libsmith/sqlsmith.git
+[submodule "eventsmith"]
+	path = eventsmith
+	url = git@github.com:libsmith/eventsmith.git
+[submodule "libanvil"]
+	path = libanvil
+	url = git@github.com:libsmith/libanvil.git
